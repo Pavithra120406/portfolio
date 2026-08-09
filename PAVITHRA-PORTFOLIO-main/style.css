@@ -8,6 +8,7 @@
 html {
   scroll-behavior: smooth;
   font-size: 100%;
+
 }
 
 @media (max-width: 480px) {
@@ -213,7 +214,6 @@ body {
   color: #333;
 }
 
-/* Skills Section */
 .skills-section {
   background: #f4f4f4;
   padding: 60px 20px;
